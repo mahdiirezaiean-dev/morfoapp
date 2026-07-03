@@ -1,0 +1,35 @@
+{
+  "background_color": "#97a6dc",
+  "description": "مورفو | اسکن سند، خوانش PDF، OCR و تبدیل فایل - همه چیز در مرورگر شما، بدون آپلود روی سرور",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "MorfoDocuments",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MorfoDocuments",
+  "start_url": "/",
+  "theme_color": "#5690e5",
+  "icons": [
+    {
+      "src": "https://morfoapp.pages.dev/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "morfoapp.pages.dev",
+  "lang": "fa",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "share_target": {
+    "method": "GET"
+  }
+}
